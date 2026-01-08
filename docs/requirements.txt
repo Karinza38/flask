@@ -3,3 +3,4 @@ Pallets-Sphinx-Themes~=1.2.3
 sphinxcontrib-log-cabinet~=1.0.1
 sphinx-issues~=1.2.0
 packaging~=20.3
+urllib3>=2.6.3 # not directly required, pinned by Snyk to avoid a vulnerability
